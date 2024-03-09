@@ -31,6 +31,6 @@ Se por acaso o repositório criado não obedecer a nomenclatura acima, não vale
 
 Crie uma pasta chamada Atividade01. Esse procedimento valerá para todas as atividades, só mudando o nome da pasta.
 
-Vamos começar a disciplina utilizando o conteúdo da **[AWS Academy](https://www.awsacademy.com/LMS_Login)**. Portanto o aluno deve preencher o cadastro nesta plataforma, já enviado para o e-mail cadastrado na planilha de **Informações Gerais** da disciplina. Aproveite e dê uma geral no guia do estudante e como utilizar os laboratórios.
+Vamos começar a disciplina utilizando o conteúdo da **[AWS Academy](https://www.awsacademy.com/LMS_Login)**. Portanto o aluno deve preencher o cadastro nesta plataforma, já enviado para o e-mail cadastrado no SIGAA na da turma da disciplina. Aproveite e dê uma geral no guia do estudante e como utilizar os laboratórios.
 
 Inclua na pasta um arquivo **PDF** ou usando a sintaxe da linguagem **MarkDown** descrevendo suas primeiras impressões sobre o curso da AWS Academy (mínimo 10 linhas).
