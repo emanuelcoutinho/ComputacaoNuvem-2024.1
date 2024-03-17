@@ -2,7 +2,7 @@
 
 ## Módulo 3 - Visão geral da infraestrutura global da AWS
 
-Data de criação: 20/03/2022
+Data de criação: 17/03/2024
 
 Autor: [Emanuel Coutinho](https://github.com/emanuelcoutinho)
 
@@ -13,7 +13,7 @@ Categorias de Serviços
 3,0 pontos na 1ª nota.
 
 ## Data da Entrega Limite
-19/04/2022
+10/04/2024
 
 Crie uma pasta chamada **Atividade04**. Esse procedimento valerá para todas as atividades, só mudando o nome da pasta. 
 
