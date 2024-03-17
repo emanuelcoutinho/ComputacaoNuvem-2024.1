@@ -2,7 +2,7 @@
 
 ## Módulo 2 - Economia e faturamento da nuvem
 
-Data de criação: 19/03/2022
+Data de criação: 17/03/2024
 
 Autor: [Emanuel Coutinho](https://github.com/emanuelcoutinho)
 
@@ -13,7 +13,7 @@ Cobrança e Gestão de Custo
 1,0 ponto na 1ª nota.
 
 ## Data da Entrega Limite
-12/04/2022
+03/04/2024
 
 ## Questão 01 - 0,5 Pontos
 Resolva o Teste de Conhecimento do **Módulo 2 - Economia e faturamento da nuvem**. Se você tirar 80 pontos no Teste de Conhecimento, receberá 0,8 * 0,5 = 0,4 pontos nesta questão.
