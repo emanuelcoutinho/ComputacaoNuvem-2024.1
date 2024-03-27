@@ -23,7 +23,7 @@ O objetivo desta primeira questão é configurar o repositório no GitHub que se
    - Escolha o **primeiro** e o **segundo** nomes, transforme em **minúsculo** e retire os acentos.
    - Anexe a cadeia de caracteres **nuvem20241**.
    - No exemplo, seria **emanuelferreiranuvem20241**.
-3. Crie um repositório no GitHub **privado** com o nome definido pelas regras acima e mande um convite de colaboração para o e-mail **emanuel.coutinho@ufc.br**.
+3. Crie um repositório no GitHub **privado** com o nome definido pelas regras acima, envie um convite de colaboração no Github (para que apenas eu tenha acesso), e acesse no MOODLE a planilha dos endereços do github dos alunos, incluindo lá seu repositório criado.
 4. **ATENÇÃO!!!**: Obedeça as regras. Se você não usa seu primeiro ou segundo nome no dia a dia, não importa, para mim o importante é que seja fácil adicionar suas notas no SIGAA.
 Se por acaso o repositório criado não obedecer a nomenclatura acima, não valerá a nota.
 
