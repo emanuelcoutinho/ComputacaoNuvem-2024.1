@@ -29,3 +29,4 @@ Para comprovar esta atividade, além da prática na AWS Academy, você terá dua
 2. Vídeo em MP4 - link para um vídeo mostrando a prática em execução (arquivo apenas com o link usando a sintaxe da linguagem **MarkDown**).
 3. Nota na AWS Academy - a nota de 0 a 100 na AWS Academy, mas sem comprovação visual do que você fez, apenas a nota. 
 
+
