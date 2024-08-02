@@ -21,8 +21,11 @@ Resolva o Teste de Conhecimento do **Módulo 5 - Redes e entrega de conteúdo**.
 ## Questão 02 - 2,0 Pontos
 Complete todas as etapas do **Laboratório 2 - Crie sua VPC e execute um servidor web**.
 
+## Forma de Entrega
+
 Para comprovar esta atividade, além da prática na AWS Academy, você terá duas opções de relato das atividades de laboratório. Escolha uma delas:
 
 1. Relatório em arquivo - descrição passo a passo do laboratório, com imagens, descrição das atividades, comandos utilizados, configurações e resultados (arquivo **PDF** ou usando a sintaxe da linguagem **MarkDown**).
 2. Vídeo em MP4 - link para um vídeo mostrando a prática em execução (arquivo apenas com o link usando a sintaxe da linguagem **MarkDown**).
 3. Nota na AWS Academy - a nota de 0 a 100 na AWS Academy, mas sem comprovação visual do que você fez, apenas a nota. 
+
