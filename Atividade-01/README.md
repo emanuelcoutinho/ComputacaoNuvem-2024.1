@@ -31,6 +31,9 @@ Se por acaso o repositório criado não obedecer a nomenclatura acima, não vale
 
 Crie uma pasta chamada Atividade01. Esse procedimento valerá para todas as atividades, só mudando o nome da pasta.
 
-Vamos começar a disciplina utilizando o conteúdo da **[AWS Academy](https://www.awsacademy.com/LMS_Login)**. Portanto o aluno deve preencher o cadastro nesta plataforma, já enviado para o e-mail cadastrado no SIGAA na da turma da disciplina. Aproveite e dê uma geral no guia do estudante e como utilizar os laboratórios.
+1. Vamos começar a disciplina utilizando o conteúdo da **[AWS Academy](https://www.awsacademy.com/LMS_Login)**. Portanto o aluno deve preencher o cadastro nesta plataforma, já enviado para o **e-mail cadastrado no SIGAA** na da turma da disciplina. 
+2. Altere na AWS Academy o nome do seu usuário. Escolha o **primeiro e o segundo nomes**, transforme em minúsculo e retire os acentos.
+3. Aproveite e dê uma geral no guia do estudante e como utilizar os laboratórios.
+4. **ATENÇÃO!!!**: Obedeça as regras. Se você não usa seu primeiro ou segundo nome no dia a dia, não importa, para mim o importante é que seja fácil eu identificar seu usário na AWS Academy. Se por acaso o usuário criado não obedecer a nomenclatura acima, não valerá a nota.
 
 Inclua na pasta um arquivo **PDF** ou usando a sintaxe da linguagem **MarkDown** descrevendo suas primeiras impressões sobre o curso da AWS Academy (mínimo 10 linhas).
