@@ -13,7 +13,7 @@ Modelo de Responsabilidade Compartilhada e IAM
 1,0 pontos na 1ª nota.
 
 ## Data da Entrega Limite
-26/04/2022
+18/08/2024
 
 ## Questão 01 - 2,0 Pontos
 Resolva o Teste de Conhecimento do **Módulo 5 - Redes e entrega de conteúdo**. Se você tirar 80 pontos no Teste de Conhecimento, receberá 0,8 * 2 = 1,6 pontos nesta questão.
